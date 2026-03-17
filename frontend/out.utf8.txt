@@ -1,0 +1,8 @@
+﻿src/components/DriverDashboard.tsx(87,10): error TS17008: JSX element 'header' has no corresponding closing tag.
+src/components/DriverDashboard.tsx(115,13): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/components/DriverDashboard.tsx(117,15): error TS17002: Expected corresponding JSX closing tag for 'div'.
+src/components/DriverDashboard.tsx(119,11): error TS17002: Expected corresponding JSX closing tag for 'div'.
+src/components/DriverDashboard.tsx(121,9): error TS1005: ')' expected.
+src/components/DriverDashboard.tsx(366,7): error TS1128: Declaration or statement expected.
+src/components/DriverDashboard.tsx(367,5): error TS1109: Expression expected.
+src/components/DriverDashboard.tsx(368,3): error TS1109: Expression expected.

@@ -1,0 +1,6 @@
+vehicle_speed,engine_rpm,coolant_temp,throttle_position,fuel_level,intake_air_temp,engine_load
+40,2000,85,30,70,35,60
+50,2500,88,40,65,38,70
+60,3000,92,50,60,40,80
+55,2800,90,45,58,39,75
+45,2200,86,35,68,36,65
