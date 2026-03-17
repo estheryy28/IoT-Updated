@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
-    "import-data": "node scripts/importDatasets.js"
+    "import-data": "node scripts/importDatasets.js",
+    "seed": "node scripts/seedDatabase.js",
+    "simulate": "node scripts/dataSimulator.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
